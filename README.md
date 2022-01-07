@@ -1,2 +1,2 @@
 # btpcicdapp - BTP CAP CICD App
-> Business Application
+> CI/CD Business Application
